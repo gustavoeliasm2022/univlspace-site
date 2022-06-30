@@ -9,7 +9,7 @@
 <body background="imagenes/viaLactea.jpg">
 <h1 style="color:white; "> Plataforma digital para aprendices de la Universiadad Nacional Integalactica de la Via Lactea </h1>
 <hr/>
-<a style="color:white; "href="index.jsp">Inicio |</a>
+<a style="color:white; "href="home.jsp">Inicio |</a>
 <a style="color:white; "href="calificaciones.jsp">Calificaciones |</a>
 <a style="color:white; "href="horarios.jsp">Horarios |</a>
 <a style="color:white; "href="contacto.jsp">Contacto |</a>
